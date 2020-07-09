@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![img](https://github.com/cloudy9101/cloudy9101/blob/master/EcYobj1WsAE-aV2.jpeg?raw=true)
+![img](https://github.com/cloudy9101/cloudy9101/blob/master/EcYobj1WsAE-aV2.png?raw=true)
 
 <!--
 **cloudy9101/cloudy9101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
